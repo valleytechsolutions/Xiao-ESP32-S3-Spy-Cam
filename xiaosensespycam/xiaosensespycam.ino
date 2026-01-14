@@ -8,8 +8,8 @@
 // =========================
 // USER SETTINGS
 // =========================
-const char* ssid     = "Yasin Family Home";
-const char* password = "September301993";
+const char* ssid     = "YOUR HOME NETWORK HERE";
+const char* password = "YOUR WIFI PASSWORD HERE";
 
 // Recording behavior
 static const uint32_t CLIP_DURATION_MS   = 60UL * 1000UL;  // 60s per clip folder
