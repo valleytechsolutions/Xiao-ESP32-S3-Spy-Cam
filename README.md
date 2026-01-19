@@ -1,5 +1,5 @@
 # Xiao-ESP32-S3-Spy-Cam
-A mini Nanny cam for the Seeedstudio Xiao ESP32-S3 Sense
+A mini Nanny cam for the Seeed Studio XIAO ESP32-S3 Sense
 # XIAO ESP32-S3 Sense Security Camera (MJPEG Stream + SD Recording + Motion + One-Click Download)
 
 This project turns a **Seeed Studio XIAO ESP32-S3 Sense** into a small security camera that:
@@ -13,7 +13,7 @@ This project turns a **Seeed Studio XIAO ESP32-S3 Sense** into a small security 
 ## What you need
 
 ### Hardware
-- Seeed Studio **XIAO ESP32-S3 Sense**
+- [Seeed Studio **XIAO ESP32-S3 Sense**](https://www.seeedstudio.com/XIAO-ESP32S3-Sense-p-5639.html)
 - microSD card (8–32GB recommended)
   - **Must be FAT32**
 - microSD card reader (for your PC)
